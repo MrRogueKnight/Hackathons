@@ -1,0 +1,30 @@
+Dear Students,
+
+This is to inform you all that the following files need to be submitted by each and every team participating in the internal hackathon.
+
+1) Your idea ppt that is prepared using the same format as provided on the SIH website and also attached herewith. 
+For submission, you can name your file as "<team_name>_SIH2024_Idea_PPT.pptx".
+
+2) A detailed extended PPT prepared to address the questions/points provided in the attached file named "Extended_ppt_format.pptx". 
+To justify your answers, please include references. For submission, you can name your file as "<team_name>_Extended_Idea_PPT.pptx".
+
+3) Any other supporting files related to your prototype. You may submit a demo video of your prototype (please keep the size of your video file under 10MB)
+
+Store the above-mentioned files in a folder named "<your_team_name>-<problem_statement>" and summit the .zip of this folder using the following Google form link:
+
+Link: https://forms.gle/RyDFSBsPtFrncJkX9
+Deadline: 8th September 2024 by 12:00 Noon
+
+I look forward to your submission and if you have any questions feel free to let me know.
+
+Thank you
+With Best Regards,
+Vivek
+
+---------------------------------------------------------
+Dr. Vivek Singh Baghel                                                           
+Assistant Professor                                                                 
+Dept. of CSE, RGIPT, Amethi-229304, India                                         
+E-mail: vbaghel@rgipt.ac.in; vsbaghel29@gmail.com       
+Webpage: https://vsbaghel.github.io/                                 
+---------------------------------------------------------
